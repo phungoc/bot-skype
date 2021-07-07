@@ -1,23 +1,8 @@
 skpy
 
-unidecode
-pytz
-python-dateutil
-feedparser
-wikipedia
-unidecode
-
-sockets
-requests
-requests-html
-
-PyTumblr
-
-google_trans_new
-gTTS
-
 python-dotenv
 
-django
-django-heroku
-gunicorn
+pytz
+python-dateutil
+
+requests
