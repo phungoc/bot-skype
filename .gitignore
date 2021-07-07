@@ -1,0 +1,5 @@
+token
+.DS_Sotre
+__pycache__/
+.vscode/
+.env
